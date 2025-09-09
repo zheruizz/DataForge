@@ -1,6 +1,6 @@
 # Zherui Zhang
 
-<img src="./zherui_zhang.png" width="300">
+<img src="./zherui_zhang.jpg" width="300">
 
 - Software Developer
 - zherui.zhang@mail.utoronto.ca
