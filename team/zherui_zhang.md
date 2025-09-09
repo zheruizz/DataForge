@@ -13,16 +13,16 @@
 
 ## About Zherui
 
-Jane is from Canada where she has experience as a full stack Ruby on Rails engineer and WordPress hosting for creatives. She has also worked in infrastructure work. She moved from South America to Canada when she was 9. In her spare time she is an avid long reader, lover of Netflix, and loves corgis.
+Zherui is a Computer Science student at the University of Toronto with a strong interest in software engineering and machine learning. He has industry experience through his internship at Intuit, where he worked on backend systems and contributed to large-scale event streaming platforms. Outside of school and work, Zherui is a passionate football fan, enjoys learning about different cultures and geography, and is an avid Geoguessr player.
 
 ## Strengths
 
-- one
-- two
-- three
+- Strong backend development and distributed systems experience
+- Skilled in machine learning, especially computer vision
+- Quick learner, able to adapt to new technologies and environments fast
 
 ## Weaknesses
 
-- one
-- two
-- three
+- Frontend design is not a strong suit, but actively learning to improve
+- Still developing planning and coordination skills in team settings
+- Naturally prone to distraction
