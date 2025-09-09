@@ -1,4 +1,4 @@
-[COMPANY NAME Principles](./principles.md)
+[DataForge Principles](./principles.md)
 
 People at COMPANY NAME
 ---
