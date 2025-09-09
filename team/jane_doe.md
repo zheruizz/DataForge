@@ -1,9 +1,9 @@
-# Jane Doe
+# Zherui Zhang
 
 ![Jane Doe Profile](./generic_woman.jpg)
 
 - Software Developer
-- email@example.com
+- zherui.zhang@mail.utoronto.ca
 
 ## Links
 
