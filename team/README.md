@@ -1,6 +1,6 @@
 [DataForge Principles](./principles.md)
 
-People at COMPANY NAME
+People at DataForge
 ---
 
 - [Zherui Zhang, Engineering](./zherui_zhang.md)
