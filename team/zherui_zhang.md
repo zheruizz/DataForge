@@ -1,6 +1,6 @@
 # Zherui Zhang
 
-![Jane Doe Profile](./generic_woman.jpg)
+![Zherui_Zhang Profile](./zherui_zhang.png)
 
 - Software Developer
 - zherui.zhang@mail.utoronto.ca
