@@ -1,6 +1,6 @@
 # DataForge
 
-![Team Logo](./logo.png)
+![Team Logo](./logo.jpg)
 
 #### Team Slack Channel: #team\-\<your\-company\-name\-here\>
 
