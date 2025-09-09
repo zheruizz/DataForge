@@ -1,6 +1,6 @@
 # DataForge
 
-<img src="./logo.jpg" width="300">)
+<img src="./logo.jpg" width="300">
 
 #### Team Slack Channel: #team\-\<your\-company\-name\-here\>
 
