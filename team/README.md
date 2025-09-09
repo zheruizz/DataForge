@@ -4,7 +4,6 @@ People at COMPANY NAME
 ---
 
 - [Zherui Zhang, Engineering](./zherui_zhang.md)
-- ...
 
 ### Team Leader
 
