@@ -1,5 +1,6 @@
-The team principles doc is a roughly 1-page doc that covers: expectations of the team members, expectations for communication, roles and responsibilities, work delegation, etc.
-The document will cover the entire team including CSC454/2527 students. 
-An example can be found [here](https://csc491.dcsil.ca/assignments/a1_example/).
-
-Optionally, team values can also be described. A real-world example of company values can be found [here](https://www.getdbt.com/about-us/values).
+## Communication:
+- The team will use a dedicated Discord channel for coordination, questions, and task reminders.
+- Questions should tag relevant members, while general updates can be posted to the whole team.
+- Important messages should be acknowledged with reactions to show they have been seen.
+- Members are expected to check the channel daily (Monday to Friday). If unavailable for more than a day, they should post a notice to keep the team informed.
+- Emergencies: In case of emergency, we have the group’s collected phone numbers pinned in a slack channel for texting and calling. This channel of communication is meant only for specific and rare cases.
