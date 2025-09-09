@@ -1,3 +1,5 @@
+# Team Principles
+
 ### Communication:
 - The team will use a dedicated Discord channel for coordination, questions, and task reminders.
 - Questions should tag relevant members, while general updates can be posted to the whole team.
