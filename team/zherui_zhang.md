@@ -7,7 +7,7 @@
 
 ## Links
 
-- [GitHub](#https://github.com/zheruizz)
+- [GitHub](https://github.com/zheruizz)
 - [LinkedIn](#)
 - [Twitter](#)
 - [Website](#)
